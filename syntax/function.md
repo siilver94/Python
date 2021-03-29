@@ -41,3 +41,26 @@ def profile(name, age, *language):
 profile('유재석',20,'python','java','c','c++','c#')
 
 ```
+
+<br/>
+
+---
+
+
+## 파이썬 내장함수
+
+파이썬 사이트 참조
+
+[Built-in Functions - Python 3.9.2 documentation](https://docs.python.org/3/library/functions.html)
+
+
+<br/>
+
+
+## 파이썬 외장함수
+
+파이썬 사이트 참조
+
+[Python Module Index](https://docs.python.org/3/py-modindex.html)
+
+
