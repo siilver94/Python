@@ -20,8 +20,6 @@ src = https://github.com/siilver94/Python/assets/57824945/402f19a5-37cf-402c-b7b
 
 파이썬은 기본적으로 **해석기(인터프리터)** 위에서 실행될 것을 염두에 두고 설계되었다.
 
-<br/>
-
 #### 주요 특징
 
 - 동적 타이핑(dynamic typing). (실행 시간에 자료형을 검사한다.)
@@ -79,8 +77,6 @@ src = https://github.com/siilver94/Python/assets/57824945/402f19a5-37cf-402c-b7b
 
 파이썬은 다음과 같은 자료형들을 갖고 있다.
 
-<br/>
-
 #### 기본 자료형:
 
 - 정수형
@@ -105,5 +101,6 @@ src = https://github.com/siilver94/Python/assets/57824945/402f19a5-37cf-402c-b7b
 
 파이썬은 동적 타이핑의 일종인 덕 타이핑을 사용하는 언어이기 때문에, 변수가 아닌 값이 타입을 가지고 있고, 변수는 모두 값의 참조(C++의 참조)이다.
 
+<br/>
 
-출처 : https://ko.wikipedia.org/wiki/%ED%8C%8C%EC%9D%B4%EC%8D%AC
+*출처 : https://ko.wikipedia.org/wiki/%ED%8C%8C%EC%9D%B4%EC%8D%AC*
